@@ -15,6 +15,6 @@ The following table shows the meaning of the led:
 
 ## Supported platforms
 
-This device supports sending data to ThingsBoard and Ubidots platforms.
+This device supports sending data to [ThingsBoard](https://thingsboard.io/) and [Ubidots](https://ubidots.com/) platforms.
 
 
